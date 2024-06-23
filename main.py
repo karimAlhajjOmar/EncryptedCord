@@ -36,7 +36,7 @@ class DiscordBotApp:
         self.channel_id = None
         self.bot_thread = None
         self.write_to_text_area("If the screen has nothing or is frozen, this means that you entered the wrong commands so you need to restart the app\n")
-        self.key = b'q-CX-SSlo0R98UoWXvlQLA3LW0bMIDxXyVS5a-Jv3Kk=' #<<<<<< put the key here
+        self.key = b'your-generated-key-here' #<<<<<< put the key here
     
     def add_new_line(self, event):
         self.entry.insert(tk.END, '\n')
