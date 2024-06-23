@@ -55,3 +55,4 @@ python3 generatekey.py
 
 <il>Interact via GUI:</il>
         <il>Use the GUI to send and receive messages securely. Messages will be encrypted before sending and decrypted upon receipt.<il>
+<img href="Untitled.png">
