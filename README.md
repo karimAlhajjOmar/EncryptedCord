@@ -1,6 +1,6 @@
 <h1>EncryptedCord</h1>
 
-EncryptedCord is a Python application built with tkinter and discord.py to create an encrypted Discord bot. It encrypts messages before sending them and decrypts them upon reception, ensuring secure communication over Discord channels.
+EncryptedCord is a Python application built with tkinter and discord.py to create an encrypted Discord bot. It encrypts messages before sending them and decrypts them upon reception, ensuring secure communication over Discord channels. You can call it Encrypted Discord
 Features
 
   <li>  End-to-End Encryption: Messages sent through the bot are encrypted using the Fernet encryption scheme from the cryptography library.</li>
