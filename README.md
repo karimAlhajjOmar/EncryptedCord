@@ -55,4 +55,3 @@ python3 generatekey.py
 
 <il>Interact via GUI:</il>
         <il>Use the GUI to send and receive messages securely. Messages will be encrypted before sending and decrypted upon receipt.<il>
-<img href="https://cdn.discordapp.com/attachments/1254414191377252504/1254414277872324750/Untitled.png?ex=667967d5&is=66781655&hm=8627b5bb6c0168ef5a363839d26e0d0e65ba093d7702bbcc91edd628f336e341&">
